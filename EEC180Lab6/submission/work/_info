@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/19.1
+vdflipflop
+Z0 !s110 1678950864
+!i10b 1
+!s100 FHja^lRd@CN?nDeb?;TUU1
+I6ViRY`X?41:?o41f[3;J`0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/rithi/Desktop/EEC180/EEC180Lab6/submission
+w1678867530
+8C:/Users/rithi/Desktop/EEC180/EEC180Lab6/dflipflop.v
+FC:/Users/rithi/Desktop/EEC180/EEC180Lab6/dflipflop.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1678950864.000000
+!s107 C:/Users/rithi/Desktop/EEC180/EEC180Lab6/dflipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rithi/Desktop/EEC180/EEC180Lab6/dflipflop.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmac
+R0
+!i10b 1
+!s100 O:=6_QEj_aG=fm]j^o0_60
+I?fc@56kK]`l4[gC`m7JKc0
+R1
+R2
+w1678917827
+8C:/Users/rithi/Desktop/EEC180/EEC180Lab6/mac.v
+FC:/Users/rithi/Desktop/EEC180/EEC180Lab6/mac.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/rithi/Desktop/EEC180/EEC180Lab6/mac.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rithi/Desktop/EEC180/EEC180Lab6/mac.v|
+!i113 1
+R5
+R6
+vmux21
+R0
+!i10b 1
+!s100 @a>[_ol6ZQLL]1zmC1`fM3
+I2B5>I7YM5OWl2o;o<`odB2
+R1
+R2
+w1678867531
+8C:/Users/rithi/Desktop/EEC180/EEC180Lab6/mux21.v
+FC:/Users/rithi/Desktop/EEC180/EEC180Lab6/mux21.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/rithi/Desktop/EEC180/EEC180Lab6/mux21.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rithi/Desktop/EEC180/EEC180Lab6/mux21.v|
+!i113 1
+R5
+R6
+vram
+R0
+!i10b 1
+!s100 7O1g;XASVHZHoR3Q]MSVY2
+IC?OQEcVAAORfHh5?hCBBn1
+R1
+R2
+w1678918180
+8C:/Users/rithi/Desktop/EEC180/EEC180Lab6/ram.v
+FC:/Users/rithi/Desktop/EEC180/EEC180Lab6/ram.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/rithi/Desktop/EEC180/EEC180Lab6/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rithi/Desktop/EEC180/EEC180Lab6/ram.v|
+!i113 1
+R5
+R6
+vtask2
+R0
+!i10b 1
+!s100 WmZJLc`mBMXR4lYkXX3PX0
+I;80ainTJO=<kUe1YPmQGP1
+R1
+R2
+w1678917970
+8C:/Users/rithi/Desktop/EEC180/EEC180Lab6/task2.v
+FC:/Users/rithi/Desktop/EEC180/EEC180Lab6/task2.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/rithi/Desktop/EEC180/EEC180Lab6/task2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rithi/Desktop/EEC180/EEC180Lab6/task2.v|
+!i113 1
+R5
+R6
+vtask3
+R0
+!i10b 1
+!s100 ^1omZPPNaKlfLjf5PcEGP2
+IXzgOH[TWP7n7gJddlVf=N0
+R1
+R2
+w1678918552
+8C:/Users/rithi/Desktop/EEC180/EEC180Lab6/task3.v
+FC:/Users/rithi/Desktop/EEC180/EEC180Lab6/task3.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/rithi/Desktop/EEC180/EEC180Lab6/task3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/rithi/Desktop/EEC180/EEC180Lab6/task3.v|
+!i113 1
+R5
+R6
+vtb_lab6
+R0
+!i10b 1
+!s100 <c?4B[1UP9ii:hoOdGzRz3
+I5I?Agh2=6``[ekN;>8@6a1
+R1
+R2
+w1678950842
+8C:\Users\rithi\Desktop\EEC180\EEC180Lab6\tb_lab6.v
+FC:\Users\rithi\Desktop\EEC180\EEC180Lab6\tb_lab6.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\rithi\Desktop\EEC180\EEC180Lab6\tb_lab6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\rithi\Desktop\EEC180\EEC180Lab6\tb_lab6.v|
+!i113 1
+R5
+R6
